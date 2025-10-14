@@ -1,3 +1,7 @@
 this project is uesd middle test
 print(a)
 a = a+
+b = b
+c = c
+d =d
+abdce!
